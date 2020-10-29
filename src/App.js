@@ -1,7 +1,7 @@
 import React from "react";
 import "./App.css";
 import Row from "./Row";
-import { request } from "https";
+import { request } from "request";
 export default function App() {
   return (
     <div className="App">
